@@ -640,6 +640,10 @@
   "https://raw.githubusercontent.com/siberiah2o/dsh-plugin-terminal/main/docs/screenshot-panel.png",
   "https://raw.githubusercontent.com/siberiah2o/dsh-plugin-terminal/main/docs/screenshot-multitab.png"
  ],
+ "https://github.com/siberiah2o/dsh-plugin-remote": [
+  "https://raw.githubusercontent.com/siberiah2o/dsh-plugin-remote/main/docs/screenshot-login.png",
+  "https://raw.githubusercontent.com/siberiah2o/dsh-plugin-remote/main/docs/screenshot-settings-panel.png"
+ ],
  "https://github.com/sjh9714/dsh-movein": [
   "https://raw.githubusercontent.com/sjh9714/dsh-movein/main/docs/report.png",
   "https://raw.githubusercontent.com/sjh9714/dsh-movein/main/docs/demo.gif",
